@@ -1,0 +1,35 @@
+@import './base.css';
+
+#app {
+  max-width: 1280px;
+	background: #fff;
+	box-shadow: 0px 0px 70px rgba(102, 102, 102, 0.2);
+  margin:  0 auto; 
+  padding: 2rem;
+  font-weight: normal;
+  margin-top: 10px 0 10px 0;
+ } 
+
+a,
+.ivory {
+  text-decoration: none;
+  color: #F4F8E9;
+  transition: 0.4s;
+  padding: 3px;
+}
+
+@media (hover: hover) {
+  a:hover {
+    background-color: hsla(207, 100%, 37%, 0.2);
+  }
+}
+
+@media (min-width: 1024px) {
+ body {
+    display: flex;
+    place-items: center;
+  } 
+
+  
+}
+
