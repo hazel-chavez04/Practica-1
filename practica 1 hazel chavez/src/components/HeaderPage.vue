@@ -26,7 +26,7 @@ import { RouterLink } from 'vue-router';
 </template>
 <style scoped>
 header {
-	/* line-height: 1.5;
+	 /* line-height: 1.5;
   max-height: 100vh; */
 	height: 200px;
 	background-color: rgb(129, 110, 110);

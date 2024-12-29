@@ -10,13 +10,7 @@
   margin-top: 10px 0 10px 0;
  } 
 
-a,
-.ivory {
-  text-decoration: none;
-  color: #F4F8E9;
-  transition: 0.4s;
-  padding: 3px;
-}
+
 
 @media (hover: hover) {
   a:hover {
@@ -24,12 +18,12 @@ a,
   }
 }
 
-@media (min-width: 1024px) {
+/* @media (min-width: 1024px) {
  body {
     display: flex;
     place-items: center;
   } 
 
   
-}
+} */
 

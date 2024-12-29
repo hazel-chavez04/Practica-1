@@ -6,7 +6,7 @@
 		<img
 			alt="banner"
 			src="@/assets/banner-d.webp"
-			width="85%"
+			width="auto"
 			height="350px"
 		/>
 	</section>
@@ -30,13 +30,13 @@
 			alt="novedades"
 			src="@/assets/img2.png"
 		/>
-		<p>
+		 <p>
 			SUMERGETE EN LA LITERATURA CON LAS ULTIMAS NOTICIAS Y
 			ACTUALIZACION.HISTORIAS SOBRE TUS AUTORES FAVORITOS
 		</p>
 	</section>
 
-	<h2>NOVEDADES RECIENTES</h2>
+	 <h2>NOVEDADES RECIENTES</h2>
 	<div class="container-event">
 		<div>
 			<img
@@ -67,7 +67,7 @@ section {
 	justify-content: center;
 	margin-top: 4rem;
 }
- 
+
 
 .container-text {
 	display: flex;
@@ -112,7 +112,7 @@ h2 {
 	margin-top: 4rem;
 
 	position: relative;
-	left: 5rem;
+	left: 2rem;
 }
 
 .container-event {
