@@ -7,7 +7,7 @@ import { RouterLink } from 'vue-router';
 			<img
 				alt="viajes literarios logo"
 				class="logo"
-				src="@/assets/logo.png"
+				src="@/assets/Logo.png"
 			/>
 			<nav class="nav">
 				<RouterLink to="/">Inicio</RouterLink>
@@ -26,8 +26,6 @@ import { RouterLink } from 'vue-router';
 </template>
 <style scoped>
 header {
-	 /* line-height: 1.5;
-  max-height: 100vh; */
 	height: 200px;
 	background-color: rgb(129, 110, 110);
 }
